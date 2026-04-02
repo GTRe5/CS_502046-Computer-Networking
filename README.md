@@ -1,4 +1,4 @@
-![Banner](https://wallpaperaccess.com/full/360307.jpg)
+![Banner](/images/ciscobanner.png)
 
 # CS_502046-Computer-Networking
 
