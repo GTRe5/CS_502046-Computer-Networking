@@ -26,7 +26,7 @@ You can download the required version from the official Cisco website:
 
 👉 [Cisco Packet Tracer Official Website](https://www.netacad.com/courses/packet-tracer)
 
-👉 [Cisco Packer's Link Download]([https://www.netacad.com/courses/packet-tracer](https://www.netacad.com/resources/lab-downloads?courseLang=en-US))
+👉 [Cisco Packer's Link Download](https://www.netacad.com/resources/lab-downloads?courseLang=en-US)
 
 Or click the link below for multiple versions:
 
