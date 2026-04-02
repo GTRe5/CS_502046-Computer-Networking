@@ -1,3 +1,5 @@
+![Banner](https://wallpaperaccess.com/full/360307.jpg)
+
 # CS_502046-Computer-Networking
 
 # 📡 Cisco Packet Tracer Compatibility Notice
@@ -25,6 +27,8 @@ Please ensure you are using the correct version of **Cisco Packet Tracer** befor
 You can download the required version from the official Cisco website:
 
 👉 [Cisco Packet Tracer Official Website](https://www.netacad.com/courses/packet-tracer)
+
+👉 [Cisco Packer's Link Download](https://www.netacad.com/resources/lab-downloads?courseLang=en-US)
 
 Or click the link below for multiple versions:
 
