@@ -1,3 +1,5 @@
+![Banner](https://wallpaperaccess.com/full/360307.jpg)
+
 # CS_502046-Computer-Networking
 
 # 📡 Cisco Packet Tracer Compatibility Notice
