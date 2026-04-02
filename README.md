@@ -26,6 +26,8 @@ You can download the required version from the official Cisco website:
 
 👉 [Cisco Packet Tracer Official Website](https://www.netacad.com/courses/packet-tracer)
 
+👉 [Cisco Packer's Link Download]([https://www.netacad.com/courses/packet-tracer](https://www.netacad.com/resources/lab-downloads?courseLang=en-US))
+
 Or click the link below for multiple versions:
 
 👉 [Multiple versions of Cisco Packet Tracer](https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html)
