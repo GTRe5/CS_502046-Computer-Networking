@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://wallpaperaccess.com/full/360307.jpg" width="800"/>
-</p>
-
-<p align="center"><i>Computer Networking Lab Environment</i></p>
+![Banner](https://wallpaperaccess.com/full/360307.jpg)
 
 # CS_502046-Computer-Networking
 
