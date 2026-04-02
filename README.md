@@ -1,4 +1,4 @@
-![Banner](/images/ciscobanner.jpg)
+![Banner](/images/ciscobanner.png)
 
 # CS_502046-Computer-Networking
 
